@@ -15,6 +15,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Inicio del proyecto:** Se ha creado el repositorio en GitHub y se ha configurado el archivo `README.md` para la documentación.
 
 
+- **Imagen modificacion archivo README**
 ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20del%20README.png?raw=true)
 
 

@@ -13,3 +13,9 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 
 ### Fecha: 12 de noviembre de 2024
 - **Inicio del proyecto:** Se ha creado el repositorio en GitHub y se ha configurado el archivo `README.md` para la documentación.
+
+
+![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20del%20README.png?raw=true)
+
+
+https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20del%20README.png?raw=true

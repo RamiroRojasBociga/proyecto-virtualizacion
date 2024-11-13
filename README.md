@@ -18,5 +18,6 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Imagen modificacion archivo README**
 ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20del%20README.png?raw=true)
 
-
+- **Discos que se van a utilizar para la creacion de los Raid nivel 1**
+- ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20del%20README.png?raw=true)
 

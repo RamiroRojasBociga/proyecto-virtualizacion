@@ -23,3 +23,6 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Discos que se van a utilizar para la creacion de los Raid nivel 1**
 - ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Discos%20para%20raid.png)
 
+- **Creacion de Raid nivel 1**
+- ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/commit/7360178289677da1d0b4f135909b04ff9db93321)
+  

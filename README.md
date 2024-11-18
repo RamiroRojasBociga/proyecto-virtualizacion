@@ -44,5 +44,8 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 -  **Obtener UUID**
 -  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Obtener%20UUID.png?raw=true)
 
+-  -  **Modificacion archivo fstab**
+-  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Modificacion%20archivo%20fstab.png?raw=true)
+
 -  
 

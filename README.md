@@ -35,4 +35,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Creacion de volumenes logicos**
 -  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20Volumenes%20Logicos.png?raw=true)
 
+- **Formatear Volumenes**
+-  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Formatear%20los%20volumenes.png?raw=true)
+
 -  

@@ -39,7 +39,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Formatear%20los%20volumenes.png?raw=true)
 
 -  **Crear directorios para montaje**
-![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20Directorios%20para%20montaje.png?raw=true)
+- ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20Directorios%20para%20montaje.png?raw=true)
 
 -  **Obtener UUID**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Obtener%20UUID.png?raw=true)

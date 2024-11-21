@@ -76,7 +76,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 
 
 - **Verificacion del contenedor corriendo**
-  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/1fc927c19a94a2edeab807bbd78e4af714ec2e62/Verificacion%20de%20contenedor%20corriendo.png)
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/8158c1d34dd5ba3380efaea07d593df3592231fe/Verificacion%20de%20contenedor%20corriendo%202.png)
  
 
 

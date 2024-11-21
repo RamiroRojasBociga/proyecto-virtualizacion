@@ -77,7 +77,13 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 
 - **Verificacion del contenedor corriendo**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/8158c1d34dd5ba3380efaea07d593df3592231fe/Verificacion%20de%20contenedor%20corriendo%202.png)
- 
+
+- **Crear directorio para servidor MySql**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/1179e99f26bdd2aea78caed33686c5a13d6781d2/Crear%20directorio%20para%20servidor%20MySql.png)
+
+- **Crear archivo dockerfile para mysql**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20archivo%20dockerfile%20para%20mysql.png?raw=true)
+
 
 
 

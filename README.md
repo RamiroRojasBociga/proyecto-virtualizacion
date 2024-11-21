@@ -50,5 +50,9 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 -  -  **Creacion de directorio para Apache**
 -  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/40870a554c0b690856979732c246f12bbf55d181/Creacion%20directorio%20para%20apache.png)
 
+-  **Creacion de archivo dockerfile**
+-  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/c11e82689b4335badcb1a5fc9a916d9fecb82d54/Creacion%20archivo%20Dockerfile.png)
+
+
 
 

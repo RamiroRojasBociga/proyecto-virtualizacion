@@ -21,13 +21,13 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 
 ### Fecha: 12 de noviembre de 2024
 - **Discos que se van a utilizar para la creacion de los Raid nivel 1**
-  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Discos%20para%20raid.png)
+  -![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Discos%20para%20raid.png)
 
 - **Creacion de Raid nivel 1**
-  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/7360178289677da1d0b4f135909b04ff9db93321/Creacion%20de%20raid.png)
+  -![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/7360178289677da1d0b4f135909b04ff9db93321/Creacion%20de%20raid.png)
 
 - **Creacion de volumenes fisicos**
-  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20volumenes%20fisicos.png?raw=true)
+  -![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20volumenes%20fisicos.png?raw=true)
 
 - **Creacion de grupo de volumenes**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20grupo%20de%20volumenes.png?raw=true)

@@ -68,6 +68,9 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Construir imagen de docker**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/49fabe3e5e35045894b37253199be30d94d48974/Construir%20imagen%20de%20docker.png)
 
+- **Correr contenedor con la imagen de apache**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/7c5bf03b0732d52a248e84dad9567f1cfb64961b/Correr%20contenedor%20imagen%20de%20Apache.png)
+
 
 
 

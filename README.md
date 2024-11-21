@@ -16,7 +16,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 
 
 - **Imagen modificacion archivo README**
-![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20del%20README.png?raw=true)
+![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/dfe33930ee795caaf962020046cca7a8f589e0d0/Creacion%20archivo%20index%20html.png)
 
 
 ### Fecha: 12 de noviembre de 2024

@@ -71,10 +71,13 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Correr contenedor con la imagen de apache**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/7c5bf03b0732d52a248e84dad9567f1cfb64961b/Correr%20contenedor%20imagen%20de%20Apache.png)
 
+- **Verificar contenedor corriendo**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/7c5bf03b0732d52a248e84dad9567f1cfb64961b/Correr%20contenedor%20imagen%20de%20Apache.png)
+
+
 - **Verificacion del contenedor corriendo**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/1fc927c19a94a2edeab807bbd78e4af714ec2e62/Verificacion%20de%20contenedor%20corriendo.png)
-  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/8158c1d34dd5ba3380efaea07d593df3592231fe/Verificacion%20de%20contenedor%20corriendo%202.png)
-
+ 
 
 
 

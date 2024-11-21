@@ -56,8 +56,11 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 -  **Contenido del archivo dockerfile**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/546d2acae52a855c7cf202c210131c53a8005389/Contenido%20Archivo%20dockerfile.png)
 
-**Creacion directorio public-html**
+- **Creacion directorio public-html**
 ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20directorio%20public-html.png?raw=true)
+
+- **Creacion archivo index.html**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/269c48c395de5968297799c2780016f1f218a2e0/Creacion%20archivo%20index%20html.png)
 
 
 

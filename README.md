@@ -155,7 +155,16 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Construir imagen apache podman**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/5d5e404f617ef28e15e9ae8d58792f3958e7fba6/Construir%20imagen%20apache%20podman.png)
 
+- **Creacion archivo index apache podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/c224ba32a9ea3429d9b4b75cc5d70465e0a28fdf/Creacion%20archivo%20index%20apache%20podman.png)
 
+- **Ejecutar contenedor apache podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/2179f2b4e93f67220e8ec74fc0d7730700e7b400/Ejecutar%20contenedor%20apache%20podman.png)
 
+- **Vista en el navegador apache podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/1f804d197ad41149d276613b00517d38b0c1bc30/Vista%20en%20el%20navegador%20apache%20podman.png)
+
+- **Acceder al contenedor apache podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/bb887b7cfd98735c9d99a7a5af6c667e8e8b0c6d/Acceder%20al%20contenedor%20apache%20podman.png)
 
 

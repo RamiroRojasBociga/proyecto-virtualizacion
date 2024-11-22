@@ -95,7 +95,8 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Acceder%20a%20mysql%20para%20cambios.png)
 
 - **Insertar datos a la tabla**
-  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Insertar%20datos%20a%20la%20tabla.png)
+  ![Descripción de la imagen](https://github.com/user-attachments/assets/3cad430f-3daf-4f21-891b-d8244f0f8c12)
+)
 
 
 

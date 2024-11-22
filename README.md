@@ -106,6 +106,15 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Crear base de datos sql**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20base%20de%20datos%20sql.png?raw=true)
 
+- **Ingresar al contenedor de mysql**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/52f3fe0a48446ed210d94b18bfc1e916b0a8f535/Ingresar%20al%20contenedor%20de%20mysql.png)
+
+- **Ejecutar el contenedor nginx**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/fd4875277a9079f006f4c3d3c0bc75ae95ca9acd/Ejecutar%20el%20contenedor%20nginx.png)
+
+- **Crear y ejecutar contenedor nginx**
+  ![https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20y%20ejecutar%20contenedor%20nginx.png)
+
 
 
 

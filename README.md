@@ -15,7 +15,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Inicio del proyecto:** Se ha creado el repositorio en GitHub y se ha configurado el archivo `README.md` para la documentación.
 
 
-### Fecha: 12 de noviembre de 2024
+
 - **Discos que se van a utilizar para la creacion de los Raid nivel 1**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Discos%20para%20raid.png)
 
@@ -32,6 +32,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20Volumenes%20Logicos.png?raw=true)
 
 - **Formatear Volumenes**
+  
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Formatear%20los%20volumenes.png?raw=true)
 
 - **Crear directorios para montaje**
@@ -142,8 +143,17 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Cambios en nginx**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Cambios%20en%20nginx.png?raw=true)
 
-  
+- **Crear directorio apache podman**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20directorio%20apache%20podman.png?raw=true)
 
+- **Creacion archivo Dockerfile apache podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/57ba61333813127a007bf232512ee385aff31e1c/Creacion%20archivo%20Dockerfile%20apache%20podman.png)
+
+- **Editar archivo Dockerfile apache podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/ca45d0872c055fd7d416b3f393a679609691b6df/Editar%20archivo%20Dockerfile%20apache%20podman.png)
+
+- **Construir imagen apache podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/5d5e404f617ef28e15e9ae8d58792f3958e7fba6/Construir%20imagen%20apache%20podman.png)
 
 
 

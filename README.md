@@ -33,21 +33,21 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20grupo%20de%20volumenes.png?raw=true)
 
 - **Creacion de volumenes logicos**
-- ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20Volumenes%20Logicos.png?raw=true)
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20Volumenes%20Logicos.png?raw=true)
 
 - **Formatear Volumenes**
-- ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Formatear%20los%20volumenes.png?raw=true)
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Formatear%20los%20volumenes.png?raw=true)
 
--  **Crear directorios para montaje**
-- ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20Directorios%20para%20montaje.png?raw=true)
+- **Crear directorios para montaje**
+ ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20Directorios%20para%20montaje.png?raw=true)
 
--  **Obtener UUID**
+- **Obtener UUID**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Obtener%20UUID.png?raw=true)
 
--  **Modificacion archivo fstab**
+- **Modificacion archivo fstab**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Modificacion%20archivo%20fstab.png?raw=true)
 
--  **Creacion de directorio para Apache**
+- **Creacion de directorio para Apache**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/40870a554c0b690856979732c246f12bbf55d181/Creacion%20directorio%20para%20apache.png)
 
 - **Creacion de archivo dockerfile**
@@ -57,7 +57,7 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/546d2acae52a855c7cf202c210131c53a8005389/Contenido%20Archivo%20dockerfile.png)
 
 - **Creacion directorio public-html**
-![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20directorio%20public-html.png?raw=true)
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20directorio%20public-html.png?raw=true)
 
 - **Creacion archivo index.html**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Creacion%20archivo%20index%20html.png?raw=true)
@@ -82,9 +82,10 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/1179e99f26bdd2aea78caed33686c5a13d6781d2/Crear%20directorio%20para%20servidor%20MySql.png)
 
 - **Crear archivo dockerfile para mysql**
-
-  
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20archivo%20dockerfile%20para%20mysql.png?raw=true)
+
+- **Editar archivo dockerfile para mysql**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Editar%20archivo%20dockerfile%20para%20mysql.png?raw=true)
 
 
 

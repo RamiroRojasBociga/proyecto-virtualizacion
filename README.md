@@ -119,12 +119,30 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/commit/9cb9deb43ce902b6f6334b20a112a16b8913b2a7)
 
 - **Creacion archivo index nginx**
-  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/commit/ece8bb5f1e779d973be0e55c26000fea66f8720c)
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/ece8bb5f1e779d973be0e55c26000fea66f8720c/Creacion%20archivo%20index%20nginx.png)
+
+- **Crear directorio para nginx**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/8aa3d996645ce8931cb853372f82ed8be0d35140/Crear%20directorio%20para%20nginx.png)
 
 - **Editar archivo index nginx**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Editar%20archivo%20index%20nginx.png)
 
+- **Crear directorio para archivos web nginx**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20directorio%20para%20archivos%20web.png?raw=true)
 
+- **Creacion archivo Dockerfile nginx**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/d171db386a9713458cf00f40cbd4bd55b09bbc2f/Creacion%20archivo%20Dockerfile%20nginx.png)
+
+- **Editar archivo dockerfile para nginx**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Editar%20archivo%20dockerfile%20para%20nginx.png?raw=true)
+
+- **Prueba del servicio nginx**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Prueba%20del%20servicio%20nginx.png?raw=true)
+
+- **Cambios en nginx**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Cambios%20en%20nginx.png?raw=true)
+
+  
 
 
 

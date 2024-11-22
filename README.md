@@ -193,6 +193,19 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Construccion imagen nginx podman**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/28ad16f66357853c2ced8b5c84340d56061cefc7/Construccion%20imagen%20nginx%20podman.png)
 
+- **Verificacion creacion de imagen enginx podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/8ba1944ba042543690018db000581903a7a27598/Verificacion%20creacion%20de%20imagen%20enginx%20podman.png)
+
+- **Crear y ejecutar el contenedor enginx podman**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20y%20ejecutar%20el%20contenedor%20enginx%20podman.png?raw=true)
+
+- **Crear y ejecutar el contenedor enginx podman**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20y%20ejecutar%20el%20contenedor%20enginx%20podman.png?raw=true)
+
+- **Crear y ejecutar el contenedor enginx podman**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Verificacion%20servicio%20nginx%20podman%20en%20localhost.png?raw=true)
+
+
 
   
 

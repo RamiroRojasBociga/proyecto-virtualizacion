@@ -172,7 +172,27 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 
 - **Vista editada navegador apache podman**
   ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/12e8a8a461ca2801492e6d91cb4f406997e37984/Vista%20editada%20navegador%20apache%20podman.png)
-  
+
+
+
+- **Crear directorio nginx para podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/c134a9944fa05f99451170ee5c391bbf09ab87f4/Crear%20directorio%20nginx%20para%20podman.png)
+
+- **Crear archivo Dockerfile para podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/b9b2508fcaff0b2d0e591e23bd13787ed1b5c6db/Crear%20archivo%20Dockerfile%20para%20podman.png)
+
+- **Crear archivo Dockerfile para podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/b9b2508fcaff0b2d0e591e23bd13787ed1b5c6db/Crear%20archivo%20Dockerfile%20para%20podman.png)
+
+- **Creacion archivo index nginx podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/586ff265d4d9aac6c543d78f55a8fd4a00022d1b/Creacion%20archivo%20index%20nginx%20podman.png)
+
+- **Editar archivo html nginx podman**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Editar%20archivo%20html%20nginx%20podman.png?raw=true)
+
+- **Construccion imagen nginx podman**
+  ![Descripción de la imagen](https://raw.githubusercontent.com/RamiroRojasBociga/proyecto-virtualizacion/28ad16f66357853c2ced8b5c84340d56061cefc7/Construccion%20imagen%20nginx%20podman.png)
+
 
   
 

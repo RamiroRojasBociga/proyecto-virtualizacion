@@ -96,7 +96,16 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 
 - **Insertar datos a la tabla**
   ![Descripción de la imagen](https://github.com/user-attachments/assets/3cad430f-3daf-4f21-891b-d8244f0f8c12)
-)
+
+- **Crear tabla empleados**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20tabla%20empleados.png)
+
+- **Usar la tabla creada**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Usar%20la%20tabla%20creada.png?raw=true)
+
+- **Crear base de datos sql**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Crear%20base%20de%20datos%20sql.png?raw=true)
+
 
 
 

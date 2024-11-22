@@ -85,6 +85,9 @@ Además, se debe configurar RAID LV1 para los tres servicios y utilizar Podman p
 - **Construir imagen de docker para mysql**
   ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Construir%20imagen%20de%20docker%20para%20mysql.png?raw=true)
 
+- **Construir imagen de docker para mysql**
+  ![Descripción de la imagen](https://github.com/RamiroRojasBociga/proyecto-virtualizacion/blob/main/Construir%20imagen%20de%20docker%20para%20mysql.png?raw=true)
+
 
 
 
